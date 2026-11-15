@@ -5,3 +5,8 @@
 /graft/
 
 .ignore
+
+# Working with Files: keep notebooks, ignore everything else
+Working with Files/**
+!Working with Files/**/
+!Working with Files/**/*.ipynb
