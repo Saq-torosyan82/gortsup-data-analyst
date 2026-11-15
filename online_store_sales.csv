@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer,Category,Product,City,Quantity,Unit_Price,Discount_Percent,Revenue
+ORD-1001,2026-01-05,Anna,Electronics,Wireless Mouse,New York,2,25,10,45
+ORD-1002,2026-01-18,David,Clothing,Jeans,Chicago,1,50,0,50
+ORD-1003,2026-02-03,Maria,Sports,Yoga Mat,Los Angeles,3,30,5,85.5
+ORD-1004,2026-02-21,John,Home & Kitchen,Coffee Maker,Houston,2,65,10,117
+ORD-1005,2026-03-09,Emma,Electronics,Headphones,Phoenix,1,70,0,70
+ORD-1006,2026-03-25,Michael,Clothing,T-Shirt,New York,4,20,15,68
+ORD-1007,2026-04-11,Sophia,Sports,Fitness Tracker,Chicago,2,110,20,176
+ORD-1008,2026-04-27,Daniel,Home & Kitchen,Blender,Los Angeles,1,55,0,55
+ORD-1009,2026-05-14,Olivia,Electronics,Webcam,Houston,3,90,10,243
+ORD-1010,2026-05-30,James,Clothing,Sneakers,Phoenix,2,75,5,142.5
