@@ -10,3 +10,8 @@
 Working_with_Files/**
 !Working_with_Files/**/
 !Working_with_Files/**/*.ipynb
+
+
+numpy_practice/**
+!numpy_practice/**/
+!numpy_practice/**/*.ipynb
